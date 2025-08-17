@@ -1,0 +1,14 @@
+{
+  "name": "proj-20250817-113600-edqvf",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

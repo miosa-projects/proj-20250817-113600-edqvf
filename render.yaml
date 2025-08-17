@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: proj-20250817-113600-edqvf
+    runtime: node
+    repo: https://github.com/OWNER/REPO
+    branch: main
+    region: oregon
+    plan: starter
+    buildCommand: npm install
+    startCommand: npm start
